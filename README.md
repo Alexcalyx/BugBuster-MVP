@@ -1,3 +1,5 @@
+*Note: This application is just a MVP, various features listed have not been impleneted yet bu can be added to make it a working application.
+As of now we have hard-coded data for list of users, bugs and comments which can be later substituted with real data by connecting it to a database like Firebase.
 
 ## Table of Contents
 - [Introduction](#introduction)
